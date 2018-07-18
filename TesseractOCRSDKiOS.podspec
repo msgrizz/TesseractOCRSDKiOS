@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
                                 :file => 'LICENSE.md' }
 
   s.authors                 = { 'Mister Grizzly Official' => 'hi@mistergrizzly.com',
-                                'Mister Grizzly Support' => 'support@mistergrizzly.com''}
+                                'Mister Grizzly Support' => 'support@mistergrizzly.com'}
 
   s.source                  = { :git => 'https://github.com/msgrizz/TesseractOCRSDKiOS.git', :tag => s.version.to_s }
 
