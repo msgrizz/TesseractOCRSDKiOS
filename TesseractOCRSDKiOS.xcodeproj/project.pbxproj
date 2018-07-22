@@ -55,7 +55,7 @@
 		84B7909A1B7B7CD100B1C726 /* leptwin.h in Headers */ = {isa = PBXBuildFile; fileRef = 84B7907C1B7B7CD100B1C726 /* leptwin.h */; };
 		84B7909B1B7B7CD100B1C726 /* list.h in Headers */ = {isa = PBXBuildFile; fileRef = 84B7907D1B7B7CD100B1C726 /* list.h */; };
 		84B7909C1B7B7CD100B1C726 /* morph.h in Headers */ = {isa = PBXBuildFile; fileRef = 84B7907E1B7B7CD100B1C726 /* morph.h */; };
-		84B7909D1B7B7CD100B1C726 /* pix.h in Headers */ = {isa = PBXBuildFile; fileRef = 84B7907F1B7B7CD100B1C726 /* pix.h */; };
+		84B7909D1B7B7CD100B1C726 /* pix.h in Headers */ = {isa = PBXBuildFile; fileRef = 84B7907F1B7B7CD100B1C726 /* pix.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		84B7909E1B7B7CD100B1C726 /* ptra.h in Headers */ = {isa = PBXBuildFile; fileRef = 84B790801B7B7CD100B1C726 /* ptra.h */; };
 		84B7909F1B7B7CD100B1C726 /* queue.h in Headers */ = {isa = PBXBuildFile; fileRef = 84B790811B7B7CD100B1C726 /* queue.h */; };
 		84B790A01B7B7CD100B1C726 /* readbarcode.h in Headers */ = {isa = PBXBuildFile; fileRef = 84B790821B7B7CD100B1C726 /* readbarcode.h */; };

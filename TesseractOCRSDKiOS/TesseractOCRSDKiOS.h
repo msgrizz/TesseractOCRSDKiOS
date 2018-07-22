@@ -30,6 +30,7 @@ FOUNDATION_EXPORT const unsigned char TesseractOCRVersionString[];
 #include <baseapi.h>
 #include <renderer.h>
 #include <allheaders.h>
+#include <pix.h>
 #endif
 
 #endif
